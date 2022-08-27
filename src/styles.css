@@ -484,7 +484,7 @@ a:hover {
 
   h1 {
     font-family: var(---primary-font-family);
-    font-size: 46px;
+    font-size: 32px;
     z-index: 2;
   }
 
@@ -512,7 +512,7 @@ a:hover {
 
   h2 {
     font-family: var(---primary-font-family);
-    font-size: 36px;
+    font-size: 26px;
     text-align: center;
     padding-top: 50px;
     padding-bottom: 10px;
