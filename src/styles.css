@@ -150,7 +150,7 @@ a:hover {
   color: var(---heading-color);
 }
 
-@media (min-width: 1080px) {
+@media screen and (min-width: 1080px) {
   .hero-section {
     background: var(--divider-background-mint);
   }
@@ -193,7 +193,7 @@ a:hover {
 
 }
 
-@media (min-width: 1078) and (max-width: 1399px) {
+@media screen and (min-width: 1078) and (max-width: 1399px) {
   .projects-layout-1 {
     padding-left: 0%;
     padding-right: 0%;
@@ -217,7 +217,7 @@ footer {
   background: var(--divider-background-mint);
 }
 
-@media (min-width: 761px)and(max-width: 1079px) {
+@media screen and (min-width: 761px)and(max-width: 1079px) {
   .hero-section {
     background: var(--divider-background-mint);
   }
@@ -342,7 +342,7 @@ a:hover {
 
 }
 
-@media (max-width: 760px) {
+@media screen and (max-width: 760px) {
   .hero-section {
     background: var(--divider-background-mint);
   }
@@ -465,7 +465,7 @@ a:hover {
 }  
 }
 
-@media (max-width: 760px) {
+@media screen and (max-width: 760px) {
   .hero-section {
     background: var(--divider-background-mint);
   }
